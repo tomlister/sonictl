@@ -1,7 +1,7 @@
-#sonictl
+# sonictl
 controls sonicd
 
-##Usage
+## Usage
 Volume Up
 ```
 sonictl -up
